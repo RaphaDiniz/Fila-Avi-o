@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Raphael Leite Diniz a2358549
+// Raphael Leite Diniz
 
 typedef struct {
   char IdVoo[50];
